@@ -49,3 +49,6 @@ Delay is the time elapsed while a packet travels from one point e.g., source pre
 ## Queue Length
 
 A queuing system in networks can be described as packets arriving for service, waiting for service if it is not immediate, and if having waited for service, leaving the system after being served. Thus queue length is very important characteristic to determine that how well the active queue management of the congestion control algorithm has been working.
+
+## RESULT:
+Therefore, Network simulator (NS) and Simulation of Congestion Control Algorithms using NS is studied
