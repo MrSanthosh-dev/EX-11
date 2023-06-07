@@ -4,19 +4,20 @@
 ## AIM:
 To Study of Network simulator (NS).and Simulation of Congestion Control Algorithms using NS.
 ## NET WORK SIMULATOR (NS2)
+```
 Ns overview
 
 1.) Ns programming: A Quick start
 2.) Case study I: A simple Wireless network
 3.) Case study II: Create a new agent in Ns
-
+```
 ## Ns overview
-
+```
 1.) Ns Status
 2.) Periodical release (ns-2.26, Feb 2003)
 3.) Platform support
 4.) FreeBSD, Linux, Solaris, Windows and Mac 
-
+```
 ## Ns functionalities
 
 • Routing, Transportation, Traffic sources,Queuing disciplines, QoS • Wireless • Ad hoc routing, mobile IP, sensor-MAC
@@ -25,11 +26,11 @@ Ns overview
 ## Examples of network simulators
 
 There are many both free/open-source and proprietary network simulators. Examples of notable network simulation software are, ordered after how often they are mentioned in research papers:
-
+```
 1.) NS (open source) 
 2.) OPNET (proprietary software) 
 3.) NetSim (proprietary software) 
-
+```
 ## Uses of network simulators
 
 Network simulators serve a variety of needs. Compared to the cost and time involved in setting up an entire test bed containing multiple networked computers, routers and data links, network simulators are relatively fast and inexpensive. They allow engineers, researchers to test scenarios that might be particularly difficult or expensive to emulate using real hardware - for instance, simulating a scenario with several nodes or experimenting with a new protocol in the network. Network simulators are particularly useful in allowing researchers to test new networking protocols or changes to existing protocols in a controlled and reproducible environment. A typical network simulator encompasses a wide range of networking technologies and can help the users to build complex networks from basic building blocks such as a variety of nodes and links. With the help of simulators, one can design hierarchical networks using various types of nodes like computers, hubs, bridges, routers, switches, links, mobile units etc. Various types of Wide Area Network (WAN) technologies like TCP, ATM, IP etc. and Local Area Network (LAN) technologies like Ethernet, token rings etc., can all be simulated with a typical simulator and the user can test, analyze various standard results apart from devising some novel protocol or strategy for routing etc. Network simulators are also widely used to simulate battlefield networks in Network-centric warfare There are a wide variety of network simulators, ranging from the very simple to the very complex. Minimally, a network simulator must enable a user to represent a network topology, specifying the nodes on the network, the links between those nodes and the traffic between the nodes. More complicated systems may allow the user to specify everything about the protocols used to handle traffic in a network. Graphical applications allow users to easily visualize the workings of their simulated environment. Text-based applications may provide a less intuitive interface, but may permit more advanced forms of customization.
